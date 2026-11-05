@@ -24,8 +24,8 @@ Data cleaning and EDA of the 20 highest-grossing concert tours.
 - Showed how inflation adjustment lifts older tours by up to **+49.8%**
 
 ## 📫 Let's Connect
-- LinkedIn: [add your link here]
-- Email: [add your email here]
+- LinkedIn: [https://www.linkedin.com/in/rawan-hosny]
+- Email: [roon1012005@gmail.com]
 
 ---
 *Always learning, always cleaning data, always with a panda nearby* 🐼
